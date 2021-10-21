@@ -1,3 +1,5 @@
+#A simple ChatBot program
+
 loop do
   print '> '
   user_input = gets.chomp
