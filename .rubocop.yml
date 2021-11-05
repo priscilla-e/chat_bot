@@ -1,0 +1,9 @@
+#Can be used to enable and disable rubocop functions
+
+
+#Style/StringLiterals:
+#  Enabled: false
+#Style/RedundantConditional:
+#  Enabled: false
+#Metrics/MethodLength:
+#  Enabled: false
